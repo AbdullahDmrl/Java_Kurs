@@ -1,0 +1,4 @@
+Hayvan isimli bir class tanımlayınız(renk,kilo, cinsi)
+consructor ekleyiniz.
+Konustu ve yemekYer isimli 2 metod ekleyiniz.
+Kopek ve Kus isimli diğer classları Hayvan sınıfından türetiniz.
